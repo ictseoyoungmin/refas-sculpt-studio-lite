@@ -58,6 +58,10 @@ AI 에이전트에게 MakeHuman을 실행하고, 원하는 외형을 문장만�
 - 모바일 및 태블릿의 GPU·메모리 성능은 기기와 브라우저에 따라 다릅니다. iOS/Android 전 기종에서의 장시간 조형 성능과 스타일러스 압력 지원은 검증되지 않았습니다.
 - 현재 작업 파일은 JSON/OBJ를 사용합니다. MakeHuman의 네이티브 편집 프로젝트(.mhm)를 직접 여닫는 도구는 아닙니다.
 
+## Repository license
+
+이 저장소의 자체 소프트웨어 코드는 **[MIT License](./LICENSE)** 로 제공됩니다. Copyright (c) 2026 ictseoyoungmin. 재배포 시 MIT 라이선스 및 저작권 고지를 유지해야 합니다. 내장된 제3자 자산과 외부 소프트웨어의 이용 조건은 아래 NOTICE를 함께 확인하세요.
+
 ## NOTICE — MakeHuman source and asset licensing
 
 **이 프로젝트에 포함된 시작 형상은 [MakeHuman Community](https://www.makehumancommunity.org/)의 기본 메시 `base.obj`를 바탕으로 가공한 메시입니다.** 이 저장소는 MakeHuman 공식 프로젝트가 아니며, MakeHuman 측의 후원·보증·제휴를 의미하지 않습니다.
@@ -70,7 +74,7 @@ MakeHuman은 **코드와 그래픽 자산의 라이선스가 다릅니다.**
 | MakeHuman **공식 핵심 그래픽 자산** (기본 메시, 타깃, 텍스처 등) | **Creative Commons CC0 1.0 Universal**. 기본 메시와 그 파생 그래픽 자산을 상업적으로 포함해 사용할 수 있으며, 원칙적으로 출처 표기가 요구되지 않습니다. 이 프로젝트는 투명성을 위해 출처를 밝힙니다. |
 | MakeHuman에서 만든 **내보내기 모델** | 공식 문서는 기본 CC0 자산과 사용자 작업으로 이루어진 출력물에 대해 MakeHuman이 권리를 주장하지 않는다고 설명합니다. |
 | **제3자 레퍼런스·의상·헤어·커뮤니티 에셋** | CC0라는 보장이 없습니다. 가져온 자료 각각의 이용 조건을 개별 확인해야 합니다. |
-| **이 저장소 자체의 HTML/JavaScript 코드** | MakeHuman의 CC0 **그래픽 자산 라이선스가 자동으로 적용되지 않습니다**. 저장소 코드의 별도 라이선스는 현재 선언하지 않았습니다. |
+| **RefAs-Character / Sculpt Studio Lite 자체 코드** | **MIT License**. 저장소의 [LICENSE](./LICENSE)에 따라 사용·수정·재배포할 수 있으며, MIT 저작권 및 허가 고지 유지가 필요합니다. 이 라이선스가 별도 권리를 가진 제3자 구성요소에 자동으로 적용되는 것은 아닙니다. |
 
 **Official sources**
 
